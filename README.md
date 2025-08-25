@@ -1,6 +1,3 @@
-# eclat-mood-board
-Instantly generate color palettes, fonts, and visual inspiration based on your mood.
-
 # 🌟 Eclat – One-Minute Mood Board
 
 **Eclat** transforms your mood into instant design inspiration. Enter a mood keyword and watch as vibrant **color palettes**, **fonts**, and **image ideas** come to life—perfect for designers, creatives, and anyone seeking aesthetic sparks.
@@ -26,7 +23,7 @@ Instantly generate color palettes, fonts, and visual inspiration based on your m
 - Mood-driven branding and aesthetic exploration  
 
 ## 🎨 Demo
-
+https://ardrarai.github.io/eclat-mood-board/
 
 
 ---
