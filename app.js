@@ -223,7 +223,7 @@ function App() {
 
         {/* Footer */}
         <div className="text-center mt-16 py-8 border-t border-gray-200">
-          <p className="text-[var(--text-secondary)]">© 2025 One-Minute Mood Board</p>
+          <p className="text-[var(--text-secondary)]">© 2025 Eclat Mood Board</p>
         </div>
       </div>
     </div>
