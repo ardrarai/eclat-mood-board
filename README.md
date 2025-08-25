@@ -27,8 +27,8 @@ Instantly generate color palettes, fonts, and visual inspiration based on your m
 
 ## 🎨 Demo
 
-[Link to live demo if deployed]
+
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Arignis**
